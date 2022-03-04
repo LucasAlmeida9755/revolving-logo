@@ -1,0 +1,7 @@
+ <meta>
+    <info author="LC" />
+
+    <script src="lc.lua" type="client" />
+    <script src="config.lua" type="shared" />
+    <file src="logo.png" />
+</meta>
